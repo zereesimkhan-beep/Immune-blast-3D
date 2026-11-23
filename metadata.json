@@ -1,0 +1,6 @@
+{
+  "name": "Ice Tower Blast",
+  "description": "Cartoon physics cannon game built with Matter.js: topple ice towers on a balancing platform, shatter crown blocks, and master 15 levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
